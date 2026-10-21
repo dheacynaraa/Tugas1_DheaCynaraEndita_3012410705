@@ -16,7 +16,8 @@ void main() {
     grade = 'C';
   }
 
-  print('=== PERSEGI PANJANG ===');
+  print('');
+  print('=== RATA-RATA & GRADE ===');
   print('List Nilai : $nilai');
   print('Rata-rata : ${rataRata.toStringAsFixed(2)}');
   print('Grade : $grade\n');

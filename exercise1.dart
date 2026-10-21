@@ -3,6 +3,7 @@ double luas(double p, double l) => p * l;
 double keliling(double p, double l) => 2 * (p + l);
 
 void main() {
+    print('');
     print('=== PERSEGI PANJANG ===');
 
     double p = 8;
